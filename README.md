@@ -1,16 +1,33 @@
 # music_player_test
 
-A new Flutter project.
+A simple music player application built with flutter .
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+**Prerequisites**
 
-A few resources to get you started if this is your first Flutter project:
+* Flutter version 3.29.2
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+**Installation**
+```
+git clone https://github.com/sirawitcs/music-player-test.git
+cd music-player-test
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## run project
+
+1. Install dependencies:
+```
+flutter pub get
+```
+2. Start Project
+run this command or
+```
+flutter run lib/main.dart
+```
+in VSCode
+click Run and Debug section select dev and click Start Debugging 
+
+
+
